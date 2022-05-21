@@ -12,8 +12,17 @@ My name is Nicolas da Silva and I'm an JavaScript Developer and I've always been
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Knowledge
-- ala
-  #dkdkdskd
+ * NextJS
+ * ReactJS
+ * TypeScript
+ * JavaScript
+ * Sass
+ * Firebase
+ * NodeJS
+ * React Native
+ * API Rest
+ * Git
+ * PostgreSQL
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
