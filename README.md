@@ -17,12 +17,6 @@ My name is Nicolas da Silva and I'm an JavaScript Developer and I've always been
  * TypeScript
  * JavaScript
  * Sass
- * Firebase
- * NodeJS
- * React Native
- * API Rest
- * Git
- * PostgreSQL
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
